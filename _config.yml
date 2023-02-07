@@ -6,12 +6,7 @@ url: "https://amostof.github.io/" # the base hostname & protocol for your site e
 
 # User settings
 username: Amirmahdi Mostofinejad
-user_description: I am a fourth-year Ph.D. candidate at the University of Toronto. 
-My graduate school projects focused on mathematical model development for different biological 
-phenomena, with my master’s focusing on tumor-induced angiogenesis (PDE-based) and my Ph.D. on 
-neotissue growth in bioreactors (ODE-based). I have also developed a parameter 
-estimator for biology-informed deep learning in SDE-based dynamical systems. 
-My interests are mathematical modeling, optimization, multiphysics, dynamical systems, deep learning, and physics-informed machine learning.
+user_description: I am a fourth-year Ph.D. candidate at the University of Toronto. My graduate school projects focused on mathematical model development for different biological phenomena, with my master’s focusing on tumor-induced angiogenesis (PDE-based) and my Ph.D. on neotissue growth in bioreactors (ODE-based). I have also developed a parameter estimator for biology-informed deep learning in SDE-based dynamical systems. My interests are mathematical modeling, optimization, multiphysics, dynamical systems, deep learning, and physics-informed machine learning.
 
 user_title: PhD Candidate
 email: 72.amir@gmail.com
